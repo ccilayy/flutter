@@ -13,7 +13,6 @@ class ContainerWidget extends StatelessWidget {
      margin: EdgeInsets.only(top: 10, left: 10),
      padding: EdgeInsets.all(20),
      alignment: Alignment.center,
-     transform: Matrix4.rotationY(0.1),
      decoration: BoxDecoration(
       gradient: RadialGradient(
         colors: [
@@ -33,7 +32,6 @@ class ContainerWidget extends StatelessWidget {
      margin: EdgeInsets.only(top: 10, left: 10),
      padding: EdgeInsets.all(20),
      alignment: Alignment.center,
-     transform: Matrix4.rotationY(0.1),
      decoration: BoxDecoration(
       gradient: RadialGradient(
         colors: [
@@ -51,7 +49,6 @@ class ContainerWidget extends StatelessWidget {
      margin: EdgeInsets.only(top: 10, left: 10),
      padding: EdgeInsets.all(20),
      alignment: Alignment.center,
-     transform: Matrix4.rotationY(0.1),
      decoration: BoxDecoration(
       gradient: RadialGradient(
         colors: [
